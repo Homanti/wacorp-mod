@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Specification-Title: wacorp
-Specification-Vendor: Homanti
-Specification-Version: 1
-Implementation-Title: wacorp
-Implementation-Version: 1.0-SNAPSHOT
-Implementation-Vendor: Homanti
-Implementation-Timestamp: 2025-11-10T22:50:59-0800
-
