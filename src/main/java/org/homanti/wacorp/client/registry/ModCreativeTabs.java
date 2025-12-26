@@ -1,4 +1,4 @@
-package org.homanti.wacorp.registry;
+package org.homanti.wacorp.client.registry;
 
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
@@ -15,10 +15,17 @@ public class ModCreativeTabs {
 
     public static final RegistryObject<CreativeModeTab> WACORP_TAB = TABS.register("wacorp_tab",
         () -> CreativeModeTab.builder()
-            .icon(() -> new ItemStack(ModItems.PHONE.get()))
+            .icon(() -> new ItemStack(ModItems.SMARTPHONE.get()))
             .title(Component.literal("WacoRP"))
             .displayItems((params, output) -> {
-                output.accept(ModItems.PHONE.get());
+                output.accept(ModItems.SMARTPHONE.get());
+
+                output.accept(ModItems.WACOINS_10.get());
+                output.accept(ModItems.WACOINS_50.get());
+                output.accept(ModItems.WACOINS_100.get());
+                output.accept(ModItems.WACOINS_500.get());
+                output.accept(ModItems.WACOINS_1000.get());
+                output.accept(ModItems.WACOINS_5000.get());
             })
             .build()
     );

@@ -1,4 +1,12 @@
 {
-  "item.wacorp.phone": "Smartphone",
-  "screen.wacorp.phone": "Smartphone interface"
+  "item.wacorp.smartphone": "Smartphone",
+  "screen.wacorp.devices.smartphone": "Smartphone interface",
+  "key.categories.wacorp": "WacoRP",
+
+  "item.wacorp.10_wacoins": "10 Wacoins",
+  "item.wacorp.50_wacoins": "50 Wacoins",
+  "item.wacorp.100_wacoins": "100 Wacoins",
+  "item.wacorp.500_wacoins": "500 Wacoins",
+  "item.wacorp.1000_wacoins": "1000 Wacoins",
+  "item.wacorp.5000_wacoins": "5000 Wacoins"
 }

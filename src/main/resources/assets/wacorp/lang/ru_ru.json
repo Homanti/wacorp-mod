@@ -1,4 +1,12 @@
 {
-  "item.wacorp.phone": "Смартфон",
-  "screen.wacorp.phone": "Интерфейс смартфона"
+  "item.wacorp.smartphone": "Смартфон",
+  "screen.wacorp.devices.smartphone": "Интерфейс смартфона",
+  "key.categories.wacorp": "WacoRP",
+
+  "item.wacorp.10_wacoins": "10 Вакоинов",
+  "item.wacorp.50_wacoins": "50 Вакоинов",
+  "item.wacorp.100_wacoins": "100 Вакоинов",
+  "item.wacorp.500_wacoins": "500 Вакоинов",
+  "item.wacorp.1000_wacoins": "1000 Вакоинов",
+  "item.wacorp.5000_wacoins": "5000 Вакоинов"
 }

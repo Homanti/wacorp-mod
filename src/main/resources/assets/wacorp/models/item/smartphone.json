@@ -2,11 +2,11 @@
 	"format_version": "1.21.6",
 	"credit": "Made by DrVECKER",
 	"textures": {
-		"0": "wacorp:item/phone/smartphone",
-		"1": "wacorp:item/phone/white_concrete",
-		"2": "wacorp:item/phone/blue_terracotta",
-		"6": "wacorp:item/phone/yellow_concrete",
-		"particle": "wacorp:item/phone/smartphone"
+		"0": "wacorp:item/devices/smartphone/smartphone",
+		"1": "wacorp:item/devices/smartphone/white_concrete",
+		"2": "wacorp:item/devices/smartphone/blue_terracotta",
+		"6": "wacorp:item/devices/smartphone/yellow_concrete",
+		"particle": "wacorp:item/devices/smartphone/smartphone"
 	},
 	"elements": [
 		{
