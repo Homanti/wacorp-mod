@@ -8,5 +8,7 @@
   "item.wacorp.100_wacoins": "100 Wacoins",
   "item.wacorp.500_wacoins": "500 Wacoins",
   "item.wacorp.1000_wacoins": "1000 Wacoins",
-  "item.wacorp.5000_wacoins": "5000 Wacoins"
+  "item.wacorp.5000_wacoins": "5000 Wacoins",
+
+  "key.wacorp.smartphone_home": "Smartphone return to home screen"
 }

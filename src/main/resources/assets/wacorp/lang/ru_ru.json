@@ -8,5 +8,7 @@
   "item.wacorp.100_wacoins": "100 Вакоинов",
   "item.wacorp.500_wacoins": "500 Вакоинов",
   "item.wacorp.1000_wacoins": "1000 Вакоинов",
-  "item.wacorp.5000_wacoins": "5000 Вакоинов"
+  "item.wacorp.5000_wacoins": "5000 Вакоинов",
+
+  "key.wacorp.smartphone_home": "Вернутся домой (смартфон)"
 }
